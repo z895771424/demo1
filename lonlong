@@ -1,0 +1,30 @@
+[33mcommit 04f94b9c2515c880e9ca5b5e7fb85f6438ec8e79[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: fc9d876 dd86701
+Author: 张兴隆 <895771424@qq.com>
+Date:   2021-11-21T10:33:14+08:00
+
+    master merge by devMerge branch 'dev'
+
+[33mcommit dd86701bed78e7fca739014bd635494d37454f3c[m[33m ([m[1;32mdev[m[33m)[m
+Author: 张兴隆 <895771424@qq.com>
+Date:   2021-11-21T10:32:20+08:00
+
+    c commit
+
+[33mcommit fc9d8761db67a66a34199adef322f577b4c4b141[m
+Author: 张兴隆 <895771424@qq.com>
+Date:   2021-11-21T10:31:42+08:00
+
+    the master last commit
+
+[33mcommit c7e32c50953fbb7ab2283ad3ab05f9e93b1dedbf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: 张兴隆 <895771424@qq.com>
+Date:   2021-11-21T10:26:02+08:00
+
+    git secont commit in master
+
+[33mcommit c9bab83db47dcd31d89c2b81154a7a03113bda84[m
+Author: 张兴隆 <895771424@qq.com>
+Date:   2021-11-21T10:23:34+08:00
+
+    master first commit
